@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Kakarotto Updates</title>
-    <link>https://zhangxguang.github.io/Kakarotto-Updates/</link>
+    <link>https://github.com/zhangxguang/Kakarotto-Updates</link>
     <description>Signed and notarized Kakarotto updates.</description>
     <language>en</language>
   </channel>

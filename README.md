@@ -4,7 +4,7 @@ This public repository hosts the signed update feed and notarized macOS release
 artifacts for Kakarotto. It does not contain the Kakarotto source code or any
 update-signing private keys.
 
-- Update feed: <https://zhangxguang.github.io/Kakarotto-Updates/appcast.xml>
+- Update feed: <https://raw.githubusercontent.com/zhangxguang/Kakarotto-Updates/main/docs/appcast.xml>
 - Releases: <https://github.com/zhangxguang/Kakarotto-Updates/releases>
 
 Kakarotto verifies every update with Sparkle EdDSA signatures, Developer ID
