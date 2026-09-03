@@ -3,14 +3,14 @@
     <channel>
         <title>Kakarotto</title>
         <item>
-            <title>0.4.1</title>
-            <pubDate>Wed, 02 Sep 2026 17:52:58 +0800</pubDate>
-            <link>https://github.com/zhangxguang/Kakarotto-Updates/releases/tag/v0.4.1</link>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <title>0.4.2</title>
+            <pubDate>Thu, 03 Sep 2026 10:26:44 +0800</pubDate>
+            <link>https://github.com/zhangxguang/Kakarotto-Updates/releases/tag/v0.4.2</link>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/zhangxguang/Kakarotto-Updates/releases/download/v0.4.1/Kakarotto-0.4.1-22.dmg" length="9460882" type="application/octet-stream" sparkle:edSignature="NFMaPO/KbYl4kTIqVQbZpiiwZBcuwKMCX6eNSUrr1DHwhBsTFWVa7Dfe+OaNmvjx8q7AKESgWGOh0hz44MlzAA=="/>
+            <enclosure url="https://github.com/zhangxguang/Kakarotto-Updates/releases/download/v0.4.2/Kakarotto-0.4.2-23.dmg" length="8812735" type="application/octet-stream" sparkle:edSignature="SUQoVnpntu2y6u4tRSmDO6LiR2netzXnC6PvqOjW9YSyZ6DJdiCY1Cv5Ljj/kG/gvK+9mbYxmIiMwJmDTRryCQ=="/>
         </item>
     </channel>
 </rss>
